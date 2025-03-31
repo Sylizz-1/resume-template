@@ -2,7 +2,7 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: jazznotes.io
+- project: https://github.com/Sylizz-1/FakeCalculator.git
   role: Main Developer
   duration: 2023 &mdash; Present
   # url: "#"
